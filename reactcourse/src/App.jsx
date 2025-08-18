@@ -11,7 +11,7 @@ export default function App() {
   // setTodos -> tasks na update madoke
   // initial state -> ond task already ide
   const [todos, setTodos] = useState([ 
-    { id: 1, text: "Get Up at @ 6:00AM", completed: false }
+    { id: 1, text: "Get Up at @ 6:00AM", completed: true }
   ]);
 
   // text -> input box nalli user type madiddu store agutte
