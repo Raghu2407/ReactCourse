@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://raghu2407.github.io/ReactCourse/reactcourse/",
+  "homepage": "https://raghu2407.github.io/ReactCourse",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
