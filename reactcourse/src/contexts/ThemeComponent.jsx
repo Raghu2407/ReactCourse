@@ -1,4 +1,4 @@
-import React , {Children, createContext, useState} from 'react'
+import React , {createContext, useState} from 'react'
 import { Sun, Moon } from 'lucide-react';
 
 export const ThemeContext = createContext();
